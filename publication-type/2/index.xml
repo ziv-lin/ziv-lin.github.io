@@ -131,6 +131,14 @@
     </item>
     
     <item>
+      <title>MARSIM: A light-weight point-realistic simulator for LiDAR-based UAVs</title>
+      <link>https://ziv-lin.github.io/publication/paper_marsim/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ziv-lin.github.io/publication/paper_marsim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R$^3$LIVE&#43;&#43;: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator</title>
       <link>https://ziv-lin.github.io/publication/paper_r3live_pp/</link>
       <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
